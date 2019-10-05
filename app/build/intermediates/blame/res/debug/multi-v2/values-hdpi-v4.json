@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Maxwork\\Educational activities\\Android\\Lectures\\2. Activities & Intents\\ResultFromActivity\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\maxim_leykin\\.gradle\\caches\\transforms-2\\files-2.1\\738773269acc433c4ae1b63ae8bb7a5f\\appcompat-v7-22.2.0\\res\\values-hdpi\\values-hdpi.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "297",
+                        "endLines": "8",
+                        "endColumns": "13",
+                        "endOffsets": "567"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "325"
+                    }
+                }
+            ]
+        }
+    ]
+}

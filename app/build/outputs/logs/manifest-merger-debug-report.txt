@@ -1,0 +1,85 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\738773269acc433c4ae1b63ae8bb7a5f\appcompat-v7-22.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\9c259c4adbcdc8596dc451eb78d6fa24\support-v4-22.2.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml:7:5-25:19
+MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\738773269acc433c4ae1b63ae8bb7a5f\appcompat-v7-22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\738773269acc433c4ae1b63ae8bb7a5f\appcompat-v7-22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\9c259c4adbcdc8596dc451eb78d6fa24\support-v4-22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\9c259c4adbcdc8596dc451eb78d6fa24\support-v4-22.2.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml:8:9-45
+activity#com.niit.android.ResultFromActivity
+ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml:10:9-19:20
+	android:label
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml:12:13-45
+	android:configChanges
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml:13:13-59
+	android:name
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml:11:13-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml:17:27-74
+activity#com.niit.android.NameActivity
+ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml:20:9-23:20
+	android:label
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml:22:13-45
+	android:name
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml:21:13-41
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml:26:5-91
+	android:name
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml:26:22-72
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml:27:5-97
+	android:name
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml:27:22-78
+uses-sdk
+INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml
+INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\738773269acc433c4ae1b63ae8bb7a5f\appcompat-v7-22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\738773269acc433c4ae1b63ae8bb7a5f\appcompat-v7-22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\9c259c4adbcdc8596dc451eb78d6fa24\support-v4-22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\maxim_leykin\.gradle\caches\transforms-2\files-2.1\9c259c4adbcdc8596dc451eb78d6fa24\support-v4-22.2.0\AndroidManifest.xml:20:5-43
+INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml
+INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Maxwork\Educational activities\Android\Lectures\2. Activities & Intents\ResultFromActivity\app\src\main\AndroidManifest.xml

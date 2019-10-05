@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Maxwork\\Educational activities\\Android\\Lectures\\2. Activities & Intents\\ResultFromActivity\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ru\\values-ru.xml",
+            "map": [
+                {
+                    "source": "C:\\Maxwork\\Educational activities\\Android\\Lectures\\2. Activities & Intents\\ResultFromActivity\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "from": {
+                        "startLines": "4,3,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "127,59,181",
+                        "endColumns": "52,66,45",
+                        "endOffsets": "175,121,222"
+                    },
+                    "to": {
+                        "startLines": "15,16,17",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1466,1519,1586",
+                        "endColumns": "52,66,44",
+                        "endOffsets": "1514,1581,1626"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\maxim_leykin\\.gradle\\caches\\transforms-2\\files-2.1\\738773269acc433c4ae1b63ae8bb7a5f\\appcompat-v7-22.2.0\\res\\values-ru\\values-ru.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "291,406,508,620,706,811,931,1037,1145,1243,1352,1458,1566",
+                        "endColumns": "114,101,111,85,104,119,105,107,97,108,105,107,135",
+                        "endOffsets": "401,503,615,701,806,926,1032,1140,1238,1347,1453,1561,1697"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,170,272,384,470,575,695,801,909,1007,1116,1222,1330",
+                        "endColumns": "114,101,111,85,104,119,105,107,97,108,105,107,135",
+                        "endOffsets": "165,267,379,465,570,690,796,904,1002,1111,1217,1325,1461"
+                    }
+                }
+            ]
+        }
+    ]
+}
