@@ -33,13 +33,14 @@ public class ResultFromActivity extends Activity implements View.OnClickListener
 	  public void onClick(View v) {
 	    Intent intent = new Intent(this, NameActivity.class);
 	    startActivityForResult(intent, 1);
+		  
 	  }
 
 	  public void onConfigurationChanged(Configuration newConfig){
 		  Configuration config = new Configuration();
-	    	if (newConfig.orientation == Configuration.ORIENTATION_LANDSCAPE) {
-	    		config.orientation = Configuration.ORIENTATION_PORTRAIT;
-				Toast.makeText(getApplicationContext(), "Rotated22!!", Toast.LENGTH_LONG).show();
+	    	if (newConfig.orientation == Configuration.ORIENTATION_PORTRAIT) {
+	    		config.orientation = Configuration.ORIENTATION_LANDSCAPE;
+				Toast.makeText(getApplicationContext(), "Rotated!", Toast.LENGTH_LONG).show();
 			}
 		  super.onConfigurationChanged(config);
 
